@@ -9,6 +9,7 @@
  * Entry point of the Smart City Critical Event System.
  *
  * Responsibilities:
+ *  - Set console output to UTF-8 to support special characters
  *  - Initialize the AVL tree root as NULL
  *  - Hand control to runSystem()
  *  - Free all allocated memory before exiting*/
