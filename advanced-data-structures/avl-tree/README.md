@@ -16,7 +16,7 @@ guaranteeing O(log n) time complexity for insertions, removals
 and searches (even under high data volume).
 
 
-## ✨ Features
+## Features
 
 - **Event Management**: register, remove (resolved only) and search by ID
 - **Advanced Queries**:
@@ -33,7 +33,7 @@ and searches (even under high data volume).
 - **Interactive text menu**: with input validation and submenus
 
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 smart-city-events/
@@ -50,7 +50,7 @@ smart-city-events/
 ```
 
 
-## 🔧 Compilation
+## Compilation
 
 Make sure you have [MinGW](https://www.mingw-w64.org/) installed.
 
@@ -62,7 +62,7 @@ gcc main.c src/event.c src/avl.c src/queries.c src/menu.c -o smart-city -lm
 
 ---
 
-## ▶️ Running
+## Running
 
 **Windows (PowerShell):**
 ```powershell
